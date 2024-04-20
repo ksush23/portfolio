@@ -1,6 +1,11 @@
 # Data Scientist
 
 ## Projects
+
+### Concert database and booking system (Databases, SQL)
+- Designed and implemented an SQL database to store ticket information of customers that attend concerts
+- Developed SQL queries that generated detailed reports on ticket sales, revenue, and attendance statistics.
+
 ### Identification of patterns of visually inseparable photos (Convolutional Neural Networks)
 - Trained AlexNet, MobileNet, Xception models on the dataset of dogs of the same breed that were randomly put into 2 classes using TensorFlow. 
 - Visualized layers and filters of these neural networks to identify features the classification was made on. 
